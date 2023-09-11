@@ -3,7 +3,7 @@
 
 As a self-taught, the development of knowledge leads me to the search for information on various curious as well as interesting topics.
 
-- 📚 I’m currently learning **Database management**
+- 📚 I’m currently learning **Machine Learning**
 
 - 🧐 Interest
   - **Data Science**
