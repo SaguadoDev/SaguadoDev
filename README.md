@@ -28,7 +28,7 @@ As a self-taught, the development of knowledge leads me to the search for inform
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap" width="40" height="40"/></a>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a>
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
   </p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/></a>
