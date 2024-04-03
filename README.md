@@ -1,14 +1,12 @@
-<h1 align="center">Hello World 👋, I'm Sergio Aguado</h1>
-<h3 align="center">A passionate Web Developer</h3>
-
-As a self-taught, the development of knowledge leads me to the search for information on various curious as well as interesting topics.
+<h1 align="center">Hello World 👋, I'm Sergio</h1>
+<h3 align="center">A passionate Full stack Web Developer</h3>
 
 - 📚 I’m currently learning **Machine Learning**
 
 - 🧐 Interest
-  - **Data Science**
   - **Software development**
   - **Web development**
+  - **Data Science**
 
 - 📫 How to reach me **sergioaguadogarrido@gmail.com**
 
