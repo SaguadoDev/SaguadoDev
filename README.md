@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Sergio</h1>
-<h3 align="center">A FrontEnd Developer</h3>
+<h3 align="center">A Frontend Developer</h3>
 
 - 📚 I’m currently learning **Machine Learning**
 
