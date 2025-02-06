@@ -5,7 +5,6 @@
 
 - 🧐 Interest
   - **Machine Learning**
-  - **Web development**
   - **Software development**
 
 - 📫 How to reach me **sergioaguadogarrido@gmail.com**
