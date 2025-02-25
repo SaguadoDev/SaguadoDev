@@ -1,40 +1,58 @@
-<h1 align="center">Hello World 👋, I'm Sergio</h1>
-<h3 align="center">A Frontend Developer</h3>
-
-- 📚 I’m currently learning **Blockchain**
-
-- 🧐 Interest
-  - **Machine Learning**
-  - **Software development**
-
-- 📫 How to reach me **sergioaguadogarrido@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px /></h1>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sergioaguadogarrido/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="sergioaguadogarrido" height="40" width="40" /></a>
-  <a href="https://twitter.com/saguadoDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saguadoDev" height="40" width="40" /></a>
-  
-  <h3 align="left">Languages and Tools:</h3>
-  
-  <p align="left">
-    <a href="https://www.w3.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://www.w3.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/012e0b1acb66024b07c16516d2bb8908127626ed/apps/bestofjs-nextjs/public/logos/astro.dark.svg" alt="Astro" width="40" height="40"/></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap" width="40" height="40"/></a>
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-    <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/keras.svg" alt="keras" width="40" height="40"/></a>
-  </p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySql" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+a+Fullstack+Developer" />
+  </a>
 </p>
-<h3 align="left">Languages used in my GitHub:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaguadoDev&show_icons=true&locale=en&layout=compact&theme=radical" alt="SaguadoDev" /></p>
 
+<h2 align="left">🚀 About Me</h2>
+  &nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Actively seeking new opportunities in software development.<br>
+  &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about science and innovation.<br>
+  &nbsp;&nbsp;&nbsp;❤️ &nbsp;Focused on problem-solving and automating daily tasks.<br>
+  &nbsp;&nbsp;&nbsp;✍️ &nbsp;Researching software architecture, development, and quality.<br>
+  &nbsp;&nbsp;&nbsp;🔨 &nbsp;Coding since 2020 with hands-on experience in enterprise software development.<br>
+  &nbsp;&nbsp;&nbsp;📍 &nbsp;Based in Spain. <br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergioaguadogarrido/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="sergioaguadogarrido" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sergioaguadogarrido@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/saguadoDev" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="saguadoDev" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<h2>🚀 Skills & Technologies</h2>
+
+<h3>🌐 Frontend</h3>
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+<h3>⚙️ Backend</h3>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+</p>
+
+<h3>🛠️ Tools & Databases</h3>
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
+  <img alt="Oracle" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h2 align="left">📊 Languages used in my GitHub:</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaguadoDev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+👀 **Looking for a passionate developer? Let's connect!**
