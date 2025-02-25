@@ -14,9 +14,9 @@
   &nbsp;&nbsp;&nbsp;📍 &nbsp;Based in Spain. <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sergioaguadogarrido/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="sergioaguadogarrido" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sergioaguadogarrido@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/saguadoDev" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="saguadoDev" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sergioaguadogarrido/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="sergioaguadogarrido" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sergioaguadogarrido@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/saguadoDev" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="saguadoDev" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2>🚀 Skills & Technologies</h2>
