@@ -57,4 +57,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaguadoDev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-👀 **Looking for a passionate developer? Let's connect!**
+👀 **Looking for a passionate software developer? Let's connect!**
