@@ -6,11 +6,12 @@
 </p>
 
 <h2 align="left">🔍 About Me</h2>
-  &nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Actively seeking new opportunities in software development.<br>
-  &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about science and innovation.<br>
-  &nbsp;&nbsp;&nbsp;❤️ &nbsp;Focused on problem-solving and automating daily tasks.<br>
-  &nbsp;&nbsp;&nbsp;✍️ &nbsp;Researching software architecture, development, and quality.<br>
-  &nbsp;&nbsp;&nbsp;🔨 &nbsp;Coding since 2020 with hands-on experience in enterprise software development.<br>
+  &nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Actively seeking new opportunities in software development.<br />
+  &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about science and innovation.<br />
+  &nbsp;&nbsp;&nbsp;❤️ &nbsp;Focused on problem-solving and automating daily tasks.<br />
+  &nbsp;&nbsp;&nbsp;✍️ &nbsp;Researching software architecture, development, and quality.<br />
+  &nbsp;&nbsp;&nbsp;🔨 &nbsp;Coding since 2020 with hands-on experience in enterprise software development.<br />
+  <br />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sergioaguadogarrido/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="sergioaguadogarrido" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
