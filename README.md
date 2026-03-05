@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="left">🔍 About Me</h2>
-  &nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Actively seeking new opportunities in software development.<br />
+  &nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Actively working as software developer at Q2B Studio.<br />
   &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about science and innovation.<br />
   &nbsp;&nbsp;&nbsp;❤️ &nbsp;Focused on problem-solving and automating daily tasks.<br />
   &nbsp;&nbsp;&nbsp;✍️ &nbsp;Researching software architecture, development, and quality.<br />
